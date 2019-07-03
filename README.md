@@ -3,6 +3,7 @@ Circle detection in image using Random Search using Openframeworks.
 
 ![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/sarching.png "RandSearching")
 - Random Searching
+
 ![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/result.png "Find")
 - Find Result
 
