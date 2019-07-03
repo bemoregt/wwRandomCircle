@@ -1,7 +1,9 @@
 # ofxRandomCircle
 Circle detection in image using Random Search using Openframeworks. 
 
-![HMF example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/result.png "RandC")
+![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/search.png "RandSearching")
+
+![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/result.png "Find")
 
 ### Algorithm
 - Montecarlo random circle search. 
