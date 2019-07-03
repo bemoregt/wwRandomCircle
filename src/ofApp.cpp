@@ -37,8 +37,6 @@ void ofApp::update(){
             colsum += col.getBrightness();
         }
         
-        //double colMean=0;
-        //colMean= colsum / 9;
         if(colsum > 690){
             isFind= true;
         }
