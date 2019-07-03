@@ -20,6 +20,6 @@ Circle detection in image using Random Search using Openframeworks.
 - OSX Mojave
 
 ### Next Plan
-- Montecarlo Tree Search
-- Code Optimization for time saving.
-- Line & Rectangle area random search.
+- Montecarlo Tree Search (challengable)
+- Code Optimization for time saving (easy)
+- Line & Rectangle area random search (easy).
