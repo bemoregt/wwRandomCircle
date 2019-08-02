@@ -1,4 +1,4 @@
-# ofxRandomCircle
+# wwRandomCircle
 Circle detection in image using Random Search using Openframeworks. 
 
 ![result example]( https://github.com/bemoregt/ofxrandomCircle/blob/master/sarching.png "RandSearching")
